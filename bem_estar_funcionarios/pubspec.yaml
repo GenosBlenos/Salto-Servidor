@@ -2,10 +2,6 @@ name: bem_estar_funcionarios
 description: "A new Flutter project."
 publish_to: 'none'
 version: 1.0.0+1
-workspace:
-  - packages/helper
-  - packages/client_package
-  - packages/server_package
 
 environment:
   sdk: ^3.7.2
