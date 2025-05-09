@@ -6,6 +6,8 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:provider/provider.dart';
 
 class ChatBotScreen extends StatefulWidget {
+  const ChatBotScreen({super.key});
+
   @override
   _ChatBotScreenState createState() => _ChatBotScreenState();
 }
@@ -31,10 +33,9 @@ class _ChatBotScreenState extends State<ChatBotScreen> {
     
     final authClient = await clientViaServiceAccount(credentials, scopes);
     setState(() {
-      _accessToken = authClient.credentials.accessToken;
+      _accessToken = authClient.credentials.accessToken.data;
     });
   }
-
   // Envia mensagem para o Dialogflow
   Future<void> _sendMessage(String text) async {
     if (_accessToken == null || text.isEmpty) return;

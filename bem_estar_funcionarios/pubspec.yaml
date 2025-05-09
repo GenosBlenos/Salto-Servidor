@@ -26,3 +26,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/positive-leaf-459218-i6-fcae8cbf1016.json # Arquivo de chave
+    - assets/government_logo.png # Logo do governo
