@@ -43,3 +43,21 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter
+flutter/
+.dart_tool/
+.pub-cache/
+.packages
+
+# Build
+build/
+.vscode/
+.idea/
+
+# Firebase
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+
+# Assets (se necessário)
+# assets/positive-leaf-*.json
