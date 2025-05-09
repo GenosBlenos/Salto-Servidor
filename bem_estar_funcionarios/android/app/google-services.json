@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84113259386",
+    "project_id": "app-salto-fd1fc",
+    "storage_bucket": "app-salto-fd1fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84113259386:android:7a40115246e48d7822f4c3",
+        "android_client_info": {
+          "package_name": "salto.app.bemestar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPCqvu0RFyIqnxHzzJTbaWLhsjL_VpWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

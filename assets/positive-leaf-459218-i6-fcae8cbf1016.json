@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "positive-leaf-459218-i6",
+  "private_key_id": "fcae8cbf1016a7bfe0531fdc43e16518b3451f97",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQfKSgODzHyvpE\nZWu9bHBzmlbPrX7AlauJ+tKdYkYYZ2dMlaSHKW65uPczL8BO6cGrBq3ncLY5rQ2D\ni6FpgjDNRxfPs61lQupYGUw0saGDSJIiD0vjXNN+gF56j65xE74Q5wqnEFM7vIok\n17QcP3m3Ib1gwtoIlugxi1Xp5krTcapOX8MQcf9CeB8x54KkehpJfyf/L2XvNGQR\nkCohm9NVgbOgTGD0YtWu4fPUBHiUigsPyeIboDCb7tNgv6d91/Bs0iTtcjBvlEW4\n4f5O9+mxJwGXZw559GVTfRPB48PpNhif92jC5L8IQaNXnMIifnKayHV8Xi6/dh2d\nC9oveUnlAgMBAAECggEADWAZva+t8pFqme25ykbFNh1uOVejnJ5diXYegftWjOVB\nYs/s5MD7Og4MSevj1gw4IQ1GJeV8w1l/VvOj0N2J3PmVJP2df7QZzbodwfmtZ3tF\n6Mp7b2Q6q1B3/zvtkJKYLIRuEgbBmEEBydhO1UsbN20CNc16aHeqANe0FNPx8/um\nofXK6pXjZkVyG2NhHtuVnmdnFFA/su63xxaBkS6OZbEcJs6PIhRDzcj67/AcbzZ7\nzdpPyBLzR7/aBiHOtERldPwJ/KIpMiJ+U+vgkgDUDR7ralhviZW1qnvMGxB8ki5H\nIQOGe3nN2I0KTEqcgFZK6B41hrcpRvawz0STK5vyFwKBgQD2L0sRITUY4Y32sW5b\nkMAMYKUiKG9/3439tjpwKO/YkVmw2mhATTB1sprOwQ2PU6ImB4JvGFIW8UYohilg\nD+KUprJrmunNRDzkQ7opHm6LMWZo8HWlHLeYiZDcmrkiQCkM9yIWIly14tuTVgk3\nY4MQ5AGF7+/eKfBYbXNaG3O7CwKBgQDYzJVToLSTE0M2i+PyuukPhhdl59bC065k\nyRjcPUi6i67a3dZe5txJowfPA9yOBl4qukaO5/uq/fmR3FUjxosJMBFbNfe62/ai\nH/4Qj9TGSMXkKp7bEdgbmGx4AZfyNC/yCeiQNt/v6s0+t4M8oYZu3vxqk1xStR/7\nEtVkJnakzwKBgQC5rwwonGpnHOEt28BIMhKYg2CqNeN7iIuZfJPxOv9E0sTanrGZ\nJl9RtugK4BOxMjyQAIQB9U8dXNg1ApQ8j16wDldu0AZeu4ROC0Njdj+cnyMGLbAe\nXF2iIMhxjAXtboVH8TL1jO9uhPBm3bLP4y/dUoxPkJzUbb+JguxJX4FX5wKBgQDJ\njkISEqluxwzI7HuLEixVK2QbcNQgI27R8ofzUeKI1A5HGtEPP/BzYWeEFeH6BH+N\nl8q7V3+JdD+PVNmuvgpLC25Hb0AWcCO2jKnGugGmKsgYHWu83bUdyrKlS035dn1Q\nt9eIJAxD3/bbJP+U4dK6xwLDDqdZmVzXLqZHSt8ozwKBgQDJ8vCJJdvHVIadHHBD\nV+dLRhrPp0gy9MBXkST4MJ8TdbySDgADTKfaPqmKw8hH+AL0yDz6F18BQoH09Fmw\no/tclwRu0rkeRgnlDIflgHjE7AFpi+YklzvzA0w1/+xLFl+Q1qHzKDBHmi0j6rb5\nuaw9PCvJ71od2Z7ZvCJ2FKGp2g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integration@positive-leaf-459218-i6.iam.gserviceaccount.com",
+  "client_id": "102592472782201188654",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integration%40positive-leaf-459218-i6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
