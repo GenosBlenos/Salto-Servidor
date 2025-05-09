@@ -106,3 +106,10 @@ install(DIRECTORY "${PROJECT_BUILD_DIR}/${FLUTTER_ASSET_DIR_NAME}"
 install(FILES "${AOT_LIBRARY}" DESTINATION "${INSTALL_BUNDLE_DATA_DIR}"
   CONFIGURATIONS Profile;Release
   COMPONENT Runtime)
+
+  set_target_properties(${BINARY_NAME} PROPERTIES
+  LINK_FLAGS "/IGNORE:4099 /DEBUG:FASTLINK"
+)
+# Na seção "add_executable", inclua:
+set(FIREBASE_CPP_SDK_DIR "${CMAKE_CURRENT_SOURCE_DIR}/flutter/ephemeral/firebase_cpp_sdk")
+include("${FIREBASE_CPP_SDK_DIR}/cmake/firebase-config.cmake")
